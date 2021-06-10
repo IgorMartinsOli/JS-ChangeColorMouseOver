@@ -1,0 +1,13 @@
+.sub {
+  width: 25%;
+  height: 25%;
+  background: white;
+  border: 1px solid #000;
+  display: inline-block;
+  float: left;
+}
+
+#container {
+  width: 1000px;
+  height: 500px;
+}
